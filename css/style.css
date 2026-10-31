@@ -729,19 +729,30 @@ to{
 }
 
 .html {
-  --level: 55%;
+  --level: 70%;
 }
 
 .js {
-  --level: 50%;
+  --level: 65%;
+}
+.ts {
+  --level: 75%;
+}
+.ng {
+  --level: 75%;
+}
+.la {
+  --level: 80%;
 }
 
 .php {
   --level: 60%;
 }
-
-.procent {
+.cs {
   --level: 30%;
+}
+.py {
+  --level: 40%;
 }
 
 .h3-talen {
